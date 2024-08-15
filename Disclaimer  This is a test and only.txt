@@ -1,0 +1,4 @@
+Disclaimer:  This is a test and only a test. 
+I am trying to be sure that I am able to use the git commands in gitbash to see the changes I've made here.
+
+ 
